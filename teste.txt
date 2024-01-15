@@ -1,0 +1,2 @@
+Você consegue ler este arquivo?
+Caso positivo, ele não está criptogrado
